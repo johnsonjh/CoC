@@ -60,7 +60,9 @@
 
 ## Enforcement
 
-* If a man has accused another of violating this Code, but has not proved it, the accused shall go to
+* If a man is proven to have violated this Code, he shall be put to death.
+
+* If a man has accused another of violating this Code, but has not proven it, the accused shall go to
   the sacred river, he shall plunge into the sacred river, and if the sacred river shall conquer him,
   he that accused him shall take possession of his house. If the sacred river shall show his innocence
   and he is saved, his accuser shall be put to death, and he that plunged into the sacred river shall
