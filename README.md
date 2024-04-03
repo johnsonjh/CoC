@@ -53,6 +53,11 @@
   birth. I will evade answering further questions to the utmost of my ability. I will make
   no oral or written statements disloyal to my country and its allies.
 
+## Measurement
+
+* Conduct is objectively electronically monitored via calibrated conductivity sensors and
+  logged in industry standard units of siemens per meter (*S/m*).
+
 ## Enforcement
 
 * If a man has accused another of violating this Code, but has not proved it, the accused shall go to
