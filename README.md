@@ -2,7 +2,7 @@
 
 ## Applicable to all community members
 
-* **No** fighting in the War Room.
+* No fighting in the War Room.
    <!-- President Merkin Muffley, 1964 -->
 * Bring out your dead.
    <!-- Monty Python, 1975 -->
@@ -10,7 +10,7 @@
    <!-- Marie-Antoinette, 1789 -->
 * If someone asks you if you're a god, you say "**yes**".
    <!-- Raymond Stantz, PhD, 1984 -->
-* Coffee is for **closers** **_only_**.
+* Coffee is for closers only.
    <!-- Blake, 1992 -->
 * Kneel before _Zod_.
    <!-- General Zod, 1980 -->
