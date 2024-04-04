@@ -2,22 +2,22 @@
 
 ## Applicable to community members
 
-- No fighting in the War Room. <!-- President Merkin Muffley  1964 -->
-- Bring out your dead. <!-- Monty Python              1975 -->
-- Let them eat cake. <!-- Marie-Antoinette          1789 -->
-- If someone asks you if you're a god, you say "yes". <!-- Dr. Raymond Stantz        1984 -->
-- Coffee is for closers only. <!-- Blake                     1992 -->
-- Kneel before Zod. <!-- General Zod               1980 -->
-- Beware of false prophets. <!-- Jesus Christ                28 -->
-- Don't fire until you see the whites of their eyes. <!-- William Prescott          1775 -->
-- Never explain anything. <!-- H.P. Lovecraft            1929 -->
-- Do not make sexual advances unless given the mating signal. <!-- Anton Szandor LaVey       1967 -->
-- Send not to know for whom the bell tolls. <!-- John Donne                1623 -->
-- If you must break the rules, do it to seize power. <!-- Julius Caesar            49 BC -->
-- Don't take any wooden nickels. <!-- Traditional               1915 -->
-- Keep your friends close, but your enemies closer. <!-- Michael Corleone          1974 -->
-- Beware the Ides of March. <!-- Marcus Junius Brutus     44 BC -->
-- Never go in against a Sicilian when death is on the line. <!-- Vizzini                   1987 -->
+- No fighting in the War Room. <!-- President Merkin Muffley, 1964 -->
+- Bring out your dead. <!-- Monty Python, 1975 -->
+- Let them eat cake. <!-- Marie-Antoinette, 1789 -->
+- If someone asks you if you're a god, you say "yes". <!-- Dr. Raymond Stantz, 1984 -->
+- Coffee is for closers only. <!-- Blake, 1992 -->
+- Kneel before Zod. <!-- General Zod, 1980 -->
+- Beware of false prophets. <!-- Jesus Christ, 28 -->
+- Don't fire until you see the whites of their eyes. <!-- William Prescott, 1775 -->
+- Never explain anything. <!-- H.P. Lovecraft, 1929 -->
+- Do not make sexual advances unless given the mating signal. <!-- Anton Szandor LaVey, 1967 -->
+- Send not to know for whom the bell tolls. <!-- John Donne, 1623 -->
+- If you must break the rules, do it to seize power. <!-- Julius Caesar, 49 BC -->
+- Don't take any wooden nickels. <!-- Traditional, 1915 -->
+- Keep your friends close, but your enemies closer. <!-- Michael Corleone, 1974 -->
+- Beware the Ides of March. <!-- Marcus Junius Brutus, 44 BC -->
+- Never go in against a Sicilian when death is on the line. <!-- Vizzini, 1987 -->
 
 ## Applicable to project leaders
 
