@@ -12,11 +12,13 @@
 - Don't fire until you see the whites of their eyes. <!-- William Prescott, 1775 -->
 - Never explain anything. <!-- H.P. Lovecraft, 1929 -->
 - Do not make sexual advances unless given the mating signal. <!-- Anton Szandor LaVey, 1967 -->
+- Live fast, die young and have a good-looking corpse. <!-- Nick Romano, 1949 -->
 - Send not to know for whom the bell tolls. <!-- John Donne, 1623 -->
 - If you must break the rules, do it to seize power. <!-- Julius Caesar, 49 BC -->
 - Don't take any wooden nickels. <!-- Traditional, 1915 -->
 - Keep your friends close, but your enemies closer. <!-- Michael Corleone, 1974 -->
 - Beware the Ides of March. <!-- Marcus Junius Brutus, 44 BC -->
+- Never attribute to malice that which is adequately explained by stupidity. <!-- Robert J. Hanlon, 1980 -->
 - Never go in against a Sicilian when death is on the line. <!-- Vizzini, 1987 -->
 
 ## Applicable to project leaders
