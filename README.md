@@ -39,19 +39,6 @@
   of birth. I will evade answering further questions to the utmost of my ability. I will
   make no oral or written statements disloyal to my country and its allies.
 
-## Applicable to non-community members
-
-- If you are a being with faculties so sharp that you can visually follow every molecule
-  in its course, and you reside in a vessel divided into two sections, **A** and **B**,
-  by a division in which there is a small hole to observe the individual molecules, you
-  _must_ open and close this hole so as to allow only the swifter molecules to pass from
-  **A** to **B**, and only the slower molecules to pass from **B** to **A**.
-
-## Measurement
-
-- Conduct is objectively monitored electronically using calibrated conductivity sensors
-  and is logged in the industry-standard units of siemens per meter (_S/m_).
-
 ## Enforcement
 
 - If a man is proven to have violated this Code, he shall be put to death.
