@@ -20,6 +20,7 @@
 - Beware the Ides of March. <!-- Marcus Junius Brutus, 44 BC -->
 - Never attribute to malice that which is adequately explained by stupidity. <!-- Robert J. Hanlon, 1980 -->
 - Never go in against a Sicilian when death is on the line. <!-- Vizzini, 1987 -->
+- Take a stress pill and think things over. <!-- HAL 9000, 2001 -->
 
 ## Applicable to project leaders
 
